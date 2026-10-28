@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600101351369",
+    "project_id": "findit-campus-app-38c08",
+    "storage_bucket": "findit-campus-app-38c08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600101351369:android:899bec7ad636e8a625c218",
+        "android_client_info": {
+          "package_name": "com.example.findit_campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgs3rIOy_fccXDwIU92niTt_qNq_XxCVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
